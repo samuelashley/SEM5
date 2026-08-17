@@ -1,0 +1,18 @@
+# Ignore all hidden files and folders
+.*
+!/.gitignore
+
+# Ignore temp folders and contents
+temp/
+**/temp/
+
+# Ignore StudyMaterial folders and contents across all subject directories
+[Ss]tudy[Mm]aterial/
+**/[Ss]tudy[Mm]aterial/
+.[Ss]tudy[Mm]aterial/
+**/.[Ss]tudy[Mm]aterial/
+
+# Ignore project documentation files
+INSTRUCTIONS.md
+PROJECT_GUIDE.md
+

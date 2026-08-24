@@ -16,3 +16,8 @@ temp/
 INSTRUCTIONS.md
 PROJECT_GUIDE.md
 
+# Ignore images folders and contents across all subdirectories
+images/
+**/images/
+
+
